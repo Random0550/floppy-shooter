@@ -46,4 +46,4 @@ this allows for maximal compression
 
 ## credits
 
-thank you to [ILBBBM2](https://github.com/ILBBBM2) for creating the game
+thank you to [ILBBBM2](https://github.com/ILBBBM2) for creating the game [floppy shooter](https://github.com/ILBBBM2/floppy-shooter)
