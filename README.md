@@ -1,6 +1,6 @@
 # floppy shooter
 
-A linux port of floppy shooter, a 3d game that will fit on a formatted floppy disk, by [ILBBBM2](https://github.com/ILBBBM2)
+A linux port of [floppy shooter](https://github.com/ILBBBM2/floppy-shooter), a 3d game that will fit on a formatted floppy disk, by [ILBBBM2](https://github.com/ILBBBM2)
 
 ## usage
 
@@ -46,4 +46,4 @@ this allows for maximal compression
 
 ## credits
 
-thank you to [ILBBBM2](https://github.com/ILBBBM2) for creating the game [floppy shooter](https://github.com/ILBBBM2/floppy-shooter)
+thank you to [ILBBBM2](https://github.com/ILBBBM2) for creating the game
